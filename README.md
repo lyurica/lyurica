@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Teacher
 ------------------------
 
-Data science master student with 7+ years of experience teaching math. Strong ability in analyzing data to uncover insights and communicate technical concepts to non-technical audiences. Strong interest in research and application of A.I. and machine learning to uncover actionable insights, tell compelling stories, drive decision making.
+Data science master student with 10+ years of experience teaching math. Strong ability in analyzing data to uncover insights and communicate technical concepts to non-technical audiences. Strong interest in research and application of A.I. and machine learning to uncover actionable insights, tell compelling stories, drive decision making.
 
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm learning AWS| NoSQL
