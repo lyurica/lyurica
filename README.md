@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Landon Yurica
 =====================================================================================================================================
 
-Data Scientist | Teacher | PC Gamer
------------------------------------
+Data Scientist | Teacher
+------------------------
+
+Data science master student with 7+ years of experience teaching math. Strong ability in analyzing data to uncover insights and communicate technical concepts to non-technical audiences. Strong interest in research and application of A.I. and machine learning to uncover actionable insights, tell compelling stories, drive decision making.
 
 * 🌍  I'm based in Los Angeles
-* 🧠  I'm learning predictive analytics
-* 🤝  I'm open to collaborating on interesting projects in education
-* ⚡  Passionate about using machine learning for social good.
+* 🧠  I'm learning AWS| NoSQL
+* 🤝  I'm open to collaborating on novel applications of AI & machine learning for education and gaming spaces.
+* ⚡  Love family, food, coffee, fitness.
 
 ### Skills
 
@@ -19,6 +21,7 @@ Data Scientist | Teacher | PC Gamer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
 
