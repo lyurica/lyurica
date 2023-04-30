@@ -8,7 +8,7 @@ I am an A.P. math teacher and current graduate student studying data science at 
 
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm learning AWS| NoSQL
-* 🤝  I'm open to collaborating on novel applications of AI & machine learning for education and gaming spaces.
+* 🤝  I'm open to collaborating on novel applications of AI & machine learning for education.
 * ⚡  Love family, food, coffee, fitness.
 
 ### Skills
