@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Landon Yurica
 =====================================================================================================================================
 
-Data Scientist | Teacher
+Data Scientist | Machine Learning Engineer
 ------------------------
 
-I am an A.P. math teacher and current graduate student studying data science at UC Berkeley with 11+ years of professional experience in education and analytical positions. I am a highly motivated individual who can apply programming and machine learning techniques combined with practical experience to help organizations better understand problems, propose novel ideas, and deliver effective solutions. I possess a lifelong learner mentality and a personal passion for improving society through data science and education. I am a goal-oriented individual who works highly effectively with cross-functional stakeholders.
+I am a current graduate student studying data science at UC Berkeley with over a decade of professional experience in analytical and education positions. I am a dynamic, team-oriented, highly motivated individual who can help you apply industry leading machine learning techniques guided by practical experience to provide cross-functional stakeholders novel insights and deliver effective solutions. I have experience helping Fortune 500 companies, government agencies, and small businesses gain industry leading analytical edge. I have a track record of improving society through data science with a record of inspiring others to do the same.
 
 * 🌍  I'm based in Los Angeles
 * 🧠  I'm learning Kubernetes| PyTorch |Apache Spark
-* 🤝  I'm open to collaborating on novel applications of AI & machine learning for education.
-* ⚡  Love family, food, Tea, fitness.
+* 🤝  I'm open to collaborating on novel applications of AI & machine learning.
+* ⚡  Love fitness, food, Tea.
 
 ### Skills
 
